@@ -19,26 +19,12 @@
             <i class="fas fa-school" style="color:white;"></i>
             <b-link to="/HomeCurso" style="color:white;">Curso</b-link>
         </b-nav-item>
-        <!--
-        <b-nav-item>
-            <i class="fas fa-clipboard-list" style="color:white;"></i>
-            <b-link to="/Inscripcion" style="color:white;">Inscripciones</b-link>
-        </b-nav-item>
-        -->
        <div>
         <b-dropdown variant="primary">
           <template v-slot:button-content>
             <i class="fas fa-clipboard-list" style="color:white;"></i>
             Insripciones
           </template>
-          <!--
-          <b-dropdown-item>
-             <b-link to="/inscripcion/curso">Inscripcion a Curso</b-link>
-          </b-dropdown-item>
-           <b-dropdown-item>
-             <b-link to="/inscripcion/carrera">Inscripcion a Carrera</b-link>
-          </b-dropdown-item>
-          -->
           <b-dropdown-item>
              <b-link to="/Homeinscripcion/curso">Ver Inscripciones de Alumnos</b-link>
           </b-dropdown-item>
@@ -53,9 +39,6 @@
           </b-dropdown-item>
         </b-dropdown>
       </div>
-        
-        <!-- Navbar dropdowns -->
-        
       </b-navbar-nav>
     </div>
   </b-navbar>

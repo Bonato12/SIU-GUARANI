@@ -79,17 +79,18 @@
                       </div>
                   </div>               
                   <br>
-                  <div class="btn-group mr-2" role="group" aria-label="First group">
-                    <router-link class="btn btn-info" to="/HomePersona" tag="button" title="Volver a HomeProducto">
-                        <i class="fas fa-arrow-left"></i>
-                          Volver
-                    </router-link>
-                  </div>
-                  <div class="btn-group mr-2" role="group" aria-label="Second group">
-                    <button  type="submit" class="btn btn-success"  title="Guardar Alumno"  >
+                  
+                  <div class="btn-group mr-2" role="group" aria-label="Second group" style="float:right;">
+                    <button  type="submit" class="btn btn-primary"  title="Guardar Alumno"  >
                         <i class="far fa-save fa-1x"></i>
                         Guardar
                     </button>
+                  </div>
+                  <div class="btn-group mr-2" role="group" aria-label="First group" style="float:right;">
+                    <router-link class="btn btn-primary" to="/HomePersona" tag="button" title="Volver a HomeProducto">
+                        <i class="fas fa-arrow-left"></i>
+                          Volver
+                    </router-link>
                   </div>
             </form>
           </div>
@@ -275,7 +276,9 @@ li {
 
 .input-group-prepend span{
 width: 138px;
-background-color: #5bc0de;
+background-color: #007bff;
+color:white;
+/*font-size: 18px;*/
 }
 
 

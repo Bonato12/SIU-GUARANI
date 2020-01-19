@@ -30,7 +30,7 @@
                 theme="default">
                 <template slot="table-row" slot-scope="props" >
                   <span v-if="props.column.field == 'opciones'">
-                    <button @click="verEstado(props.row)" class="btn btn-info"   title="Ver Info del alumno" >
+                    <button @click="verEstado(props.row)" class="btn btn-primary"   title="Ver Info del alumno" >
                         <i class="fas fa-clipboard-list"></i>
                         Estado 
                     </button>

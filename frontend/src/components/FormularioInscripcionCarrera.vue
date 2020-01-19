@@ -37,7 +37,7 @@
                       </div>
                       <br>
                       <div class="btn-group mr-2" role="group" aria-label="Second group">
-                        <button  type="submit" class="btn btn-info"  title="Guardar Alumno"  >
+                        <button  type="submit" class="btn btn-primary"  title="Guardar Alumno"  >
                               <i class="far fa-save fa-1x"></i>
                               Guardar
                         </button>
