@@ -38,14 +38,14 @@ Home inscripcion
 
 
 Nuevo Alumno
-![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/NuevoAlumno.png)
+![alt text](https://github.com/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/NuevoAlumno.png)
 
 
 
 Estado Academico
-![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/EstadoAcademico.png)
+![alt text](https://github.com/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/EstadoAcademico.png)
 
 
 
 Inscripcion Curso
-![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/InscripcionCurso.png)
+![alt text](https://github.com/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/InscripcionCurso.png)
