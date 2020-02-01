@@ -31,22 +31,21 @@ https://github.com/axios/axios
 # Capturas de Pantalla
 
 Home Alumno
-![alt text](https://github.com/Bonato12/TECSO-Challenge/blob/master/PASO%203/frontend/src/assets/capturas/HomePersona.png)
-
+![alt text](https://github.com/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/HomePersona.png)
 Home inscripcion
 
-![alt text](https://github.com/Bonato12/TECSO-Challenge/blob/master/PASO%203/frontend/src/assets/capturas/HomeInscripcion.png)
+![alt text](https://github.com/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/HomeInscripcion.png)
 
 
 Nuevo Alumno
-![alt text](https://github.com/Bonato12/TECSO-Challenge/blob/master/PASO%203/frontend/src/assets/capturas/NuevoAlumno.png)
+![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/NuevoAlumno.png)
 
 
 
 Estado Academico
-![alt text](https://github.com/Bonato12/TECSO-Challenge/blob/master/PASO%203/frontend/src/assets/capturas/EstadoAcademico.png)
+![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/EstadoAcademico.png)
 
 
 
 Inscripcion Curso
-![alt text](https://github.com/Bonato12/TECSO-Challenge/blob/master/PASO%203/frontend/src/assets/capturas/InscripcionCurso.png)
+![alt text](https://github.com/Bonato12/Bonato12/SIU-GUARANI/blob/master/frontend/src/assets/capturas/InscripcionCurso.png)
